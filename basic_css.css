@@ -7,3 +7,10 @@
 	padding: 0px 0px 0px 10px; 
 
 }
+h1{
+	color: red;
+}
+
+ul{
+	list-style: none;
+}
